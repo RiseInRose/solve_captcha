@@ -7,7 +7,7 @@ python run.py
 
 # 参考
 1.其实以前也破解过,只是没有详细记录
-2.参考 https://lengyue.me/index.php/2018/10/06/anjuke/
+2.大神冷月的js破解代码  https://lengyue.me/index.php/2018/10/06/anjuke/
 
 # 破解过程记录
 
